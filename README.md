@@ -1,4 +1,4 @@
 # NoiseGen
 Generating multivariate noise
 
-Manuscript in preperation.
+Manuscript currently under review in _Chemometrics and Intelligent Laboratory Systems_.
