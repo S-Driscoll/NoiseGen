@@ -1,4 +1,4 @@
 # NoiseGen
 Generating multivariate noise by scaling and rotating white noise via the error covariance matrix
 
-Manuscript currently accepted and in-press in _Chemometrics and Intelligent Laboratory Systems_.
+Manuscript can be found at https://www.sciencedirect.com/science/article/pii/S0169743919300395
