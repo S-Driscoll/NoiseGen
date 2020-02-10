@@ -11,7 +11,7 @@ Literature
 
 * [NoiseGen - Analytical Measurement Error Simulation Software (2019)](https://www.sciencedirect.com/science/article/pii/S0169743919300395)
 
-* [Simulation of $1/f^\alpha$ noise for analytical measurements](https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.3137)
+* [Simulation of $1/f^\alpha$ noise for analytical measurements (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.3137)
 
 Examples
 -------------
