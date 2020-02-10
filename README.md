@@ -1,9 +1,18 @@
-### NoiseGen
+NoiseGen
+======
+NoiseGen is an algorithm for simulating any type of noise by rotating and scaling white noise via the error covariance matrix (ECM). Below is a figure from our recent paper that demonstrates the basic flow of the algorithm.
 
-`NoiseGen.m` is a MATLAB function for generating multivariate noise by scaling and rotating white noise via the error covariance matrix.
+<h1 align="center">
+<img src="https://S-Driscoll.github.io/img/NGalg.PNG" alt="NoiseGen" width="500"/>
+</h1>
 
-
-Manuscript
+Literature
 -------------
 
-Manuscript can be found here: [NoiseGen - Analytical Measurement Error Simulation Software](https://www.sciencedirect.com/science/article/pii/S0169743919300395)
+* [NoiseGen - Analytical Measurement Error Simulation Software (2019)](https://www.sciencedirect.com/science/article/pii/S0169743919300395)
+
+* [Simulation of $1/f^\alpha$ noise for analytical measurements](https://onlinelibrary.wiley.com/doi/abs/10.1002/cem.3137)
+
+Examples
+-------------
+To be completed.
