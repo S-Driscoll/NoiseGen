@@ -3,7 +3,7 @@ NoiseGen
 NoiseGen is an algorithm for simulating any type of noise by rotating and scaling white noise via the error covariance matrix (ECM). Below is a figure from our recent paper that demonstrates the basic flow of the algorithm.
 
 <h1 align="center">
-<img src="https://S-Driscoll.github.io/img/NGalg.PNG" alt="NoiseGen" width="500"/>
+<img src="https://github.com/S-Driscoll/NoiseGen/blob/master/common/noisegen.png" alt="NoiseGen" width="500"/>
 </h1>
 
 Literature
